@@ -1,0 +1,10 @@
+H:\C#Projects\morseCode\morseCode\obj\Debug\morseCode.exe
+H:\C#Projects\morseCode\morseCode\obj\Debug\morseCode.pdb
+F:\Stuff\C#Projects\morseCode\morseCode\obj\Debug\morseCode.exe
+F:\Stuff\C#Projects\morseCode\morseCode\obj\Debug\morseCode.pdb
+F:\Stuff\C#Projects\morseCode\morseCode\bin\Debug\morseCode.exe
+F:\Stuff\C#Projects\morseCode\morseCode\bin\Debug\morseCode.pdb
+F:\Stuff\C#Projects\morseCode\morseCode\obj\Debug\ResolveAssemblyReference.cache
+F:\Stuff\C#Projects\morseCode\morseCode\obj\Debug\morseCode.Form1.resources
+F:\Stuff\C#Projects\morseCode\morseCode\obj\Debug\morseCode.Properties.Resources.resources
+F:\Stuff\C#Projects\morseCode\morseCode\obj\Debug\morseCode.csproj.GenerateResource.Cache

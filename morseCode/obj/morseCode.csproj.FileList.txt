@@ -1,0 +1,8 @@
+bin\Debug\morseCode.exe
+bin\Debug\morseCode.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\morseCode.Form1.resources
+obj\Debug\morseCode.Properties.Resources.resources
+obj\Debug\morseCode.csproj.GenerateResource.Cache
+obj\Debug\morseCode.exe
+obj\Debug\morseCode.pdb
